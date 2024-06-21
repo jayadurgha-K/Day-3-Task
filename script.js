@@ -17,6 +17,8 @@ if (obj1[key]===obj2[key]){
 }
 }
 
+// ----------------------------------------------------------------------------------
+
 // Day-3-Task-2
 
 //! use rest contries API URL and display all the country flags in console
@@ -53,6 +55,8 @@ request.onload=function(){
     }
 
 }
+
+//-------------------------------------------------------------------------------------------
 
 // Day-3-Task-3
 

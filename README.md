@@ -7,7 +7,7 @@
 
 1. How to compare two JSON have the same properties without order.
 - First we declear the two objects and stored in variable.
-- Then compare length of the object and compare the key values.
+- Then compare length of the object and compare the key pair values.
 
 2. Use restcountries API URL -print the flags
 
